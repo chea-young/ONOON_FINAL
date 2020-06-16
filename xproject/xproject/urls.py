@@ -19,7 +19,6 @@ urlpatterns = [
     #카메라 추가
     path('app_addface/',views.app_app_addface),
     path('app_opendoor/',views.app_app_opendoor),
-
    
 ]
  #파일 추가

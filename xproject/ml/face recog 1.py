@@ -49,5 +49,5 @@ def take_pictures(name):       # 얼굴 저장하는 장소
 
 
 if __name__ == "__main__":
-    take_pictures('HYO')
+    take_pictures('DU')
     
